@@ -43,7 +43,7 @@ Welcome to the User Management RESTful API! This is a lightweight backend projec
 
 ### 1. Clone repository
 ```bash
-git clone https://github.com/praveensingh-git/UserSync-API----with-NodeJS.git
+git clone https://github.com/praveensingh-git/UserSync-API-with-NodeJS.git
 ```
 ### 2. Install dependencies
 ```
