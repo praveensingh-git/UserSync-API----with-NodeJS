@@ -1,9 +1,18 @@
-# 🧠 User Management API — Express + MongoDB
+# <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60">  User Management API — Express + MongoDB
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
-![Node.js](https://img.shields.io/badge/Node.js-18.x-green?logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/Express.js-4.x-lightgrey?logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-7.x-green?logo=mongodb) <br>
+
+
+
+
+
+ <br>
 Welcome to the User Management RESTful API! This is a lightweight backend project using Express.js, MongoDB, and Mongoose, designed to manage user data with full CRUD functionality and request logging.
+
+---
 
 ## 📑 Table of Contents
 
@@ -15,6 +24,8 @@ Welcome to the User Management RESTful API! This is a lightweight backend projec
 - [Core Files Explained](#-core-files-explained)
 - [License](#-license)
 
+---
+
 ## ✅ Features
 
 - Create, Read, Update, Delete (CRUD) users
@@ -23,6 +34,7 @@ Welcome to the User Management RESTful API! This is a lightweight backend projec
 - Clean RESTful API design
 - Modular file structure
 
+---
 
 ## 📦 Project Structure
 
@@ -38,6 +50,8 @@ Welcome to the User Management RESTful API! This is a lightweight backend projec
   └── `connection.js` — MongoDB connection handler  
 - `index.js` — Main entry point (Express server)  
 - `log.txt` — Logs all API requests
+
+---
 
 ## 💻 Installation
 
@@ -64,6 +78,8 @@ MongoDB connected
 Server started at PORT: 8000
 ```
 
+---
+
 ## 🌐 API Endpoints
 
 | Method | Endpoint          | Description                |
@@ -74,6 +90,8 @@ Server started at PORT: 8000
 | POST   | /api/user        | Create new user            |
 | PATCH  | /api/user/:id    | Update user                |
 | DELETE | /api/user/:id    | Delete user                |
+
+---
 
 ## 📡 API Usage Examples
 ###Create User
@@ -94,6 +112,8 @@ Server started at PORT: 8000
 ### Update User by ID
 `PATCH /api/user/663d4a5c8a2b6a1748f6f2e1`
 `Content-Type: application/json`
+
+---
 
 ## 🔍 Sample Responses
 <details> <summary>Success Response</summary>
@@ -122,7 +142,7 @@ Server started at PORT: 8000
 </details>
 
 
-
+---
 
 
 ## 🛠 Core Files Explained
@@ -209,6 +229,7 @@ router.route("/:id")
 
 ```
 
+---
 
 ## 🛑 Important Notes
 Ensure MongoDB is running on `mongodb://127.0.0.1:xxxxx`
@@ -223,3 +244,10 @@ Made with 💻 + ☕️ by <a href="https://github.com/praveensingh-git">Praveen
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" alt="BYE" width="150">
+</div>
+
